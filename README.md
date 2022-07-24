@@ -19,11 +19,11 @@ Once replaced a new school_data_complete_df dataframe was created using 'pd.merg
 
 --The same results can be found in reviewing the scores by School Spending,School size and School Type. The changes of each category is nominal leaving each category relatively unchanged
 
-![School Spending](https://github.com/jobloom79/School_District_Analysis/blob/main/Resources/spending_summary.png)
+![School Spending](https://github.com/jobloom79/School_District_Analysis/blob/main/Resources/spending_summary.PNG)
 
-![School Size](https://github.com/jobloom79/School_District_Analysis/blob/main/Resources/school_size.png)
+![School Size](https://github.com/jobloom79/School_District_Analysis/blob/main/Resources/school_size.PNG)
 
-![School Type](https://github.com/jobloom79/School_District_Analysis/blob/main/Resources/school_type.png)
+![School Type](https://github.com/jobloom79/School_District_Analysis/blob/main/Resources/school_type.PNG)
 
 ### Summary: 
 ---After reviewing the data we have come to the conclusing that there is little to no evidence of academic dihonesty as the grades were mostly unaffected and in the category of average reading scores increasing while the percent passing decreased, shows there was a large enough number of grades that were borderline passing for Thomas High School 9th grade to bring down the School average if they were included. 
